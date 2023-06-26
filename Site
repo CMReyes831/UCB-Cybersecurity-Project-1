@@ -29,7 +29,7 @@
             alt="" height=150px;>
         <h2 class="section-title">Hi, I'm Christian!</h2>
         <p>
-            I am an aspiring Cybersecurity Professional from the Bay Area. I started this blog to immerse myself further by speaking on topics that interest me. I hope you enjoy!
+            I am an aspiring Cybersecurity Professional from the Bay Area. I began taking a Cyber Security Bootcamp in early 2023 but I was always interested in the cyber world. I started this blog to immerse myself further by speaking and researching topics that I'm interested in. Thank you for stopping by and I hope you enjoy!
             <br><br>
             
         </p>
@@ -57,54 +57,13 @@
 
         <!-- second blog post -->
         <article class="blog-post">
-            <img src="https://drive.google.com/uc?export=view&id=1PJrGBg8LgxHAzwhfM6drWR5fdfNQkRE4" alt="Image-2">
+            <img src="https://www.ncsc.gov.uk/images/Phishing-vector%20-%20Copy.png?mpwidth=545&mlwidth=737&twidth=961&dwidth=635&dpr=1&width=1920" alt="Image-2">
             <div class="blog">
-                <h3>Blog Post 2 Title</h3>
-                <h4>Add Keywords</h4>
-                <p>
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi neque animi quo cupiditate
-                    commodi saepe culpased itaque velit maiores optio dolorem excepturi aperiam dolores,
-                    voluptatibus suscipit amet quis repellat!
-                </p>
-            </div>
-        </article>
-    </section>
-</body>
-
-</html>
-            I am an aspiring Cybersecurity Professional from the Bay Area. I started this blog to immerse myself further by speaking on topics that interest me. I hope you enjoy!
-            <br><br>
-
-        </p>
-    </section>
-
-
-    <!-- "Blog Posts" section -->
-    <section id="blog-post-collection" class="blog-posts">
-        <h2 class="section-title">Blog Posts</h2>
-        <article class="blog-post">
-            <img src="https://drive.google.com/uc?export=view&id=1ueyXZqXdMHEawBDTGLVD5-Kdp1t5DUZy&rl" alt="Image 1">
-
-            <div class="blog">
-                <h3>Activision Sends Cease & Desist</h3>
-                <h4>Activision, Blizzard, Call of Duty</h4>
-                <p>
-                </p>
-            </div>
-        </article>
-
-
-        <!-- second blog post -->
-        <article class="blog-post">
-            <img src="https://drive.google.com/uc?export=view&id=1PJrGBg8LgxHAzwhfM6drWR5fdfNQkRE4" alt="Image-2">
-            <div class="blog">
-                <h3>Blog Post 2 Title</h3>
-                <h4>Add Keywords</h4>
-                <p>
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi neque animi quo cupiditate
-                    commodi saepe culpased itaque velit maiores optio dolorem excepturi aperiam dolores,
-                    voluptatibus suscipit amet quis repellat!
-                </p>
+                <h3>Phishing</h3>
+                <h4>Phishing, Training</h4>
+                <p style="text-indent: 25px;">A few years ago I worked at a dealership and upon signing on to work there I had to do some online training before my start date. It didn't seem like a big deal; spend some time learning more about the company I was working for, learned about the vehicles, and one thing that caught my eye was a training on something called, "Phishing." At that time, that was the first I ever heard of that term. I took notice. I mean, you see a word you've never heard of before, you look it up, and end up falling through a rabbit hole of information. I was always a cautious person when it came to my email, texts, and phone calls. If I don't recognize the contact, I'm not responding. If it's from a company I've never purchased anything from or heard of before, I'm not gonna open up that email. I never knew there was an actual term for those types of emails. I was surprised because I learned about it through a work training and seeing as where I'm trying to take my career, it's good to know that companies offer the knowledge and it's up to that person to take it to heart.</p>
+                <p style="text-indent: 25px;">After working at that dealership, I became a delivery driver for a battery company. Same thing as the previous employeer, I got training on phishing again. This time the training was every 6 months, and you actually had to have a test at the end of the training to get a certificate of completion. Hearing my co-workers at the time complaining about the training because they never really open up their emails but I still felt that it was needed. Even if you're not opening up emails from work doesn't mean you're not opening up emails for your own personal use.</p> 
+                <p style="text-indent: 25px;">I honestly feel that when companies offer the trainings for these types of things it is up to the user to want to pay attention or not. That one training made me aware of things I didn't even know existed. I feel that if it's framed as a typical training it might not be for everyone but if you could offer a more immersive experience like some of the training I've experienced, I think we'd all be better off. I've seen skits where you have to watch through to figure out the outcome, and yes it may be corny but I still think that behind all of that is so much useful knowledge to everyone.</p>
             </div>
         </article>
     </section>
